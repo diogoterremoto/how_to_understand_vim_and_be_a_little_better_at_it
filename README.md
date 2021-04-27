@@ -18,3 +18,4 @@ No…? I think you are awesome. Now go write some code!
 ---
 
 Made in the beautiful VS Code.
+Thanks [@protsaq](https://github.com/protsaq) for the inspiration (estás aqui primo ❤️)
